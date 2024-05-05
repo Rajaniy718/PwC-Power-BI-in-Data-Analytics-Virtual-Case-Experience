@@ -9,6 +9,7 @@ Through meticulous data analysis and visualization, this project aims to support
 ### Task 1 : Call Centre Trends
 
 The first dashboard provides a comprehensive view of call centre metrics, focusing on customer satisfaction, call volumes, and agent performance. It aids in identifying areas for improvement in call centre operations.
+![Pwc02](https://github.com/Rajaniy718/PwC-Power-BI-in-Data-Analytics-Virtual-Case-Experience/assets/100602312/b5fc8a38-37e3-423c-8a02-ba81f7d97d57)
 
 ### Task 2: Customer Retention
 This dashboard was developed in response to a request from the telecom's Retention Manager, showcasing key metrics related to customer loyalty and retention. It visualizes data to predict customer churn and identifies potential strategies to enhance customer retention.
